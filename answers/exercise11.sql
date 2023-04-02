@@ -1,0 +1,1 @@
+SELECT * FROM students order by city asc;

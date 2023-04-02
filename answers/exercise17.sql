@@ -1,0 +1,1 @@
+UPDATE STUDENTS set city = 'fish' where COUNTRY= 'scotland';
